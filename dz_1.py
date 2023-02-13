@@ -1,0 +1,5 @@
+print("Nazar")
+print("Sheremeta")
+print("Alexeev")
+print("19.05.2008")
+print("SM")
