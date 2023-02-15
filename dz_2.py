@@ -61,7 +61,7 @@ class Student:
     def live(self, day):
         day = "Day" + str(day) + " of " + self.name + " life "
         print(f"{day:=^50}")
-        rundom_number = random.randit == (1, 3)
+        rundom_number = random.randit(1, 3)
         if rundom_number == 1:
             self.to_study()
         elif rundom_number == 2:
